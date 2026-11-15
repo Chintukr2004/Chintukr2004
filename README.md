@@ -1,4 +1,14 @@
 
+<h1 align="center">Hey, I'm Chintukr2004 👋</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Go+Backend+Developer;Building+Scalable+REST+APIs;PostgreSQL+%7C+Docker+%7C+Microservices;Learning+System+Design" />
+</h3>
+
+<p align="center">
+  Backend Engineering | Golang | PostgreSQL
+</p>
+
 <h1 align="center">Hi, I'm Chintukr2004 👋</h1>
 
 <h3 align="center">
