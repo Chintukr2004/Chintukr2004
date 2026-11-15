@@ -39,38 +39,6 @@
 
 ## 👨‍💻 about me
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name       string
-    Role       string
-    Language   []string
-    Interests  []string
-}
-
-func main() {
-    me := Developer{
-        Name: "Chintukr2004",
-        Role: "Backend Developer",
-        Language: []string{
-            "Go",
-            "TypeScript",
-            "JavaScript",
-        },
-        Interests: []string{
-            "Backend Engineering",
-            "Distributed Systems",
-            "System Design",
-            "Open Source",
-        },
-    }
-
-    fmt.Println(me)
-}
-```
 
 - 🎓 Computer Science Engineering student.
 - 🐹 Currently focused on Go backend development.
