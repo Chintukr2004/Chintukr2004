@@ -2,7 +2,7 @@
 <!-- =============== HEADER =============== -->
 
 <h1 align="center">
-  ❄️ Chintukr2004 — Developer ❄️
+  ❄️ Chintu Kumar ❄️
 </h1>
 
 <p align="center">
