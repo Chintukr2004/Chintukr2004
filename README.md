@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com](https://camo.githubusercontent.com/21bad60d684dfe0324d1b13e8d45256bfd8354ae4b6adc6d19e42fcb016bca33/68747470733a2f2f6d656469612e74656e6f722e636f6d2f68443536582d5135417a4d414141416a2f676f706865722d7368616b696e672e676966)?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+like+building+backend+systems;Golang+is+my+favorite+language;Building+REST+APIs+and+Microservices;Learning+System+Design;Turning+ideas+into+working+software" />
+  <img src="[https://readme-typing-svg.demolab.com]"(https://camo.githubusercontent.com/21bad60d684dfe0324d1b13e8d45256bfd8354ae4b6adc6d19e42fcb016bca33/68747470733a2f2f6d656469612e74656e6f722e636f6d2f68443536582d5135417a4d414141416a2f676f706865722d7368616b696e672e676966)?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+like+building+backend+systems;Golang+is+my+favorite+language;Building+REST+APIs+and+Microservices;Learning+System+Design;Turning+ideas+into+working+software" />
 </p>
 
 <p align="center">
